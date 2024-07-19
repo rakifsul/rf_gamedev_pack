@@ -26,3 +26,7 @@ Please post other project suggestions on the "Issues" page.
 Support me by using these projects and spreading the word.
 
 Also, remember that my internet name is RAKIFSUL/Rakifsul/rakifsul.
+
+## Link untuk Traktir
+
+- https://karyakarsa.com/rakifsul/info
