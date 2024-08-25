@@ -16,7 +16,7 @@ Here is the list of projects:
 
 - [RF Vehicle System: an example implementation of a simple car simulation using Godot Engine](https://github.com/rakifsul/rf_vehicle_system).
 - [RF Tank Game Template: a simple tank game template using Godot Engine](https://github.com/rakifsul/rf_tank_game_template).
-- [RF Assets Pack: collection of game dev assets](https://github.com/rakifsul/rf_assets_pack)
+- [RF Assets Pack: collection of game dev and non game dev assets](https://github.com/rakifsul/rf_assets_pack)
 
 ## Project Ideas
 
