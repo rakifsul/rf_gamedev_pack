@@ -26,6 +26,6 @@ Dukung saya dengan menggunakan project-project ini dan sebarkan.
 
 Selain itu, ingat bahwa nama internet saya adalah RAKIFSUL/Rakifsul/rakifsul.
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul

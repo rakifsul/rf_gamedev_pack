@@ -28,6 +28,6 @@ Support me by using these projects and spreading the word.
 
 Also, remember that my internet name is RAKIFSUL/Rakifsul/rakifsul.
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
