@@ -1,6 +1,6 @@
 # rf_games_pack - Collection of Game Development Project
 
-[README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_games_pack/blob/main/README_id.md)
+[README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_gamedev_pack/blob/main/README_id.md)
 
 ## Intro
 
